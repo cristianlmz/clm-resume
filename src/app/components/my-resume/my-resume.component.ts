@@ -1,4 +1,21 @@
 import { Component, OnInit } from '@angular/core';
+import jobsDataSource from '../../../assets/JsonSource/my-resume-input.json';
+
+interface ITechnologies {
+  name: string,
+  iconPath: string
+}
+
+interface IJobs {
+  id: number,
+  company: string,
+  date: string,
+  role: string,
+  description: string,
+  logo: string,
+  activities: string[]
+  technologies: ITechnologies[]
+}
 
 @Component({
   selector: 'app-my-resume',
@@ -11,5 +28,7 @@ export class MyResumeComponent implements OnInit {
 
   ngOnInit(): void {
   }
+
+  jobs: IJobs[] = jobsDataSource;
 
 }

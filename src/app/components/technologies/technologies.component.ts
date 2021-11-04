@@ -1,4 +1,10 @@
 import { Component, OnInit } from '@angular/core';
+import technologiesDataSource from '../../../assets/JsonSource/technologies.json';
+
+interface ITechnologies {
+  name: string,
+  iconPath: string
+}
 
 @Component({
   selector: 'app-technologies',
@@ -12,4 +18,5 @@ export class TechnologiesComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  technologies: ITechnologies[] = technologiesDataSource;
 }
