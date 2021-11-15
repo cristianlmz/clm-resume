@@ -1,6 +1,22 @@
-<div class="aboutMe-content">
-    <div class="container">
-        <h1>about-me works!</h1>
+<div class="component-content">
+  <div class="container">
+    <div class="transparent-container overflow-auto wrapper">
+      <div class="container">
+        <h1>Somethings about me</h1>
+        <br />
+        <br />
+        <div class="row">
+          <div
+            class=" fact-card col-md-6 col-12 offset-2"
+            *ngFor="let fact of factList"
+            style="background-image: url('{{ fact.BackgroundImage }}')">
+            <div class="card wrapper card-caption">
+              <h3>{{ fact.Title }}</h3>
+              <p>{{ fact.Body }}</p>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
+  </div>
 </div>
-

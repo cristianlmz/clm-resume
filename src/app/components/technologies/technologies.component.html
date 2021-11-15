@@ -1,22 +1,19 @@
-<div class="technologies-content">
+<div class="component-content">
   <div class="container">
-    <h1>Some of the technologies I've used</h1>
-
-    <!-- <div class="row">
-        <div class="" *ngFor="let tech of technologies">
+    <div class="transparent-container overflow-auto">
+      <div class="container">
+        <h1>Some of the technologies I've used</h1>
+        <br />
+        <br />
+        <div class="row">
+          <div class="col-md-2 col-4" *ngFor="let tech of technologies">
+            <img src="{{ tech.iconPath }}" width="50px" alt="{{ tech.name }}" />
             <p>
               {{ tech.name }}
-              <img src="{{ tech.iconPath }}" width="30px" alt="{{ tech.name }}" />
             </p>
           </div>
-    </div> -->
-
-    <div class="card" style="width: 18rem;" *ngFor="let tech of technologies">
-      <img src="{{ tech.iconPath }}" class="card-img-top" alt="...">
-      <div class="card-body">
-        <p class="card-text">{{ tech.name }}</p>
+        </div>
       </div>
     </div>
-    
   </div>
 </div>

@@ -1,0 +1,44 @@
+[
+  {
+    "RowSpan": 2,
+    "ColSpan": 4,
+    "BackgroundImage": "/assets/photos/keyboard.jpg",
+    "Title": "I love coding, obviously.",
+    "Body": "Coding is one of the things I love the most. For some reason I cannot explain, the fact of writing the code and watch it work is something that passions me."
+  },
+  {
+    "RowSpan": 1,
+    "ColSpan": 1,
+    "BackgroundImage": "/assets/photos/popocatepetl.jpg",
+    "Title": "",
+    "Body": "There is nothing comparable to fresh air. I like to ride my bike, go for a walk in the woods, and climb mountains."
+  },
+  {
+    "RowSpan": 2,
+    "ColSpan": 2,
+    "BackgroundImage": "/assets/photos/bass_cats.jpg",
+    "Title": "",
+    "Body": "I really enjoy music at all times. It doesn't matter if I'm working, riding my bike, or trying to sleep. My favorite band? The Beatles, of course."
+  },
+  {
+    "RowSpan": 1,
+    "ColSpan": 1,
+    "BackgroundImage": "/assets/photos/stephenking.png",
+    "Title": "",
+    "Body": "I love science fiction and horror stories. My favorite author is Stephen King, with him, I never know how the story is going to end. My favorite book, The Running Man."
+  },
+  {
+    "RowSpan": 1,
+    "ColSpan": 1,
+    "BackgroundImage": "/assets/photos/horror_icons.png",
+    "Title": "",
+    "Body": "I love horror movies. Before the pandemic, I went to the movies every weekend. I love the experience of watching a movie on a giant screen while eating popcorn."
+  },
+  {
+    "RowSpan": 1,
+    "ColSpan": 1,
+    "BackgroundImage": "/assets/photos/controlxbox.jpg",
+    "Title": "",
+    "Body": "Nothing better than hang out with friends while we face against people around the world."
+  }
+]

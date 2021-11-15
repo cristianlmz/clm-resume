@@ -1,8 +1,28 @@
-.aboutMe-content {
-  width: 100%;
-  height: 100%;
+.component-content{
   background: url("/assets/images/about-me.jpeg") no-repeat 50% 50%;
   background-size: cover;
-  display: flex;
-  align-items: center;
+}
+
+.transparent-container {
+  height: 80vh;
+}
+
+.fact-card {
+  background-size: cover;
+  background-position: center center;
+  border-radius: 10px;
+  min-height: 270px;
+  position: relative;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.card-caption {
+  width: 100%;
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.8);
+  text-align: center;
+  bottom: 0;
+  position: absolute;
 }
