@@ -16,51 +16,51 @@
     "technologies": [
       {
         "name": ".Net Core",
-        "iconPath": "/assets/icons/netcore_icon.png"
+        "iconPath": "assets/icons/netcore_icon.png"
       },
       {
         "name": "Docker",
-        "iconPath": "/assets/icons/docker_icon.png"
+        "iconPath": "assets/icons/docker_icon.png"
       },
       {
         "name": "Kubernetes",
-        "iconPath": "/assets/icons/kubernetes_icon.png"
+        "iconPath": "assets/icons/kubernetes_icon.png"
       },
       {
         "name": "C#",
-        "iconPath": "/assets/icons/csharp_icon.png"
+        "iconPath": "assets/icons/csharp_icon.png"
       },
       {
         "name": "Angular",
-        "iconPath": "/assets/icons/angular_icon.png"
+        "iconPath": "assets/icons/angular_icon.png"
       },
       {
         "name": "NodeJS",
-        "iconPath": "/assets/icons/nodejs_icon.png"
+        "iconPath": "assets/icons/nodejs_icon.png"
       },
       {
         "name": "Javascript",
-        "iconPath": "/assets/icons/javascript_icon.png"
+        "iconPath": "assets/icons/javascript_icon.png"
       },
       {
         "name": "JQuery",
-        "iconPath": "/assets/icons/jquery_icon.png"
+        "iconPath": "assets/icons/jquery_icon.png"
       },
       {
         "name": "SQL Server",
-        "iconPath": "/assets/icons/sql_icon.png"
+        "iconPath": "assets/icons/sql_icon.png"
       },
       {
         "name": "Git",
-        "iconPath": "/assets/icons/git_icon.png"
+        "iconPath": "assets/icons/git_icon.png"
       },
       {
         "name": "BitBucket",
-        "iconPath": "/assets/icons/bitbucket_icon.png"
+        "iconPath": "assets/icons/bitbucket_icon.png"
       },
       {
         "name": "Jenkins",
-        "iconPath": "/assets/icons/jenkins_icon.png"
+        "iconPath": "assets/icons/jenkins_icon.png"
       }
     ]
   },
@@ -83,39 +83,39 @@
     "technologies": [
       {
         "name": ".Net Core",
-        "iconPath": "/assets/icons/netcore_icon.png"
+        "iconPath": "assets/icons/netcore_icon.png"
       },
       {
         "name": ".Net Framework",
-        "iconPath": "/assets/icons/netframework_icon.png"
+        "iconPath": "assets/icons/netframework_icon.png"
       },
       {
         "name": "AWS",
-        "iconPath": "/assets/icons/aws_icon.png"
+        "iconPath": "assets/icons/aws_icon.png"
       },
       {
         "name": "ASP.Net",
-        "iconPath": "/assets/icons/aspnet_icon.png"
+        "iconPath": "assets/icons/aspnet_icon.png"
       },
       {
         "name": "C#",
-        "iconPath": "/assets/icons/csharp_icon.png"
+        "iconPath": "assets/icons/csharp_icon.png"
       },
       {
         "name": "NodeJS",
-        "iconPath": "/assets/icons/nodejs_icon.png"
+        "iconPath": "assets/icons/nodejs_icon.png"
       },
       {
         "name": "SQL Server",
-        "iconPath": "/assets/icons/sql_icon.png"
+        "iconPath": "assets/icons/sql_icon.png"
       },
       {
         "name": "BitBucket",
-        "iconPath": "/assets/icons/bitbucket_icon.png"
+        "iconPath": "assets/icons/bitbucket_icon.png"
       },
       {
         "name": "Jenkins",
-        "iconPath": "/assets/icons/jenkins_icon.png"
+        "iconPath": "assets/icons/jenkins_icon.png"
       }
     ]
   },
@@ -138,27 +138,27 @@
     "technologies": [
       {
         "name": ".Net Core",
-        "iconPath": "/assets/icons/netcore_icon.png"
+        "iconPath": "assets/icons/netcore_icon.png"
       },
       {
         "name": ".Net Framework",
-        "iconPath": "/assets/icons/netframework_icon.png"
+        "iconPath": "assets/icons/netframework_icon.png"
       },
       {
         "name": "ASP.Net",
-        "iconPath": "/assets/icons/aspnet_icon.png"
+        "iconPath": "assets/icons/aspnet_icon.png"
       },
       {
         "name": "C#",
-        "iconPath": "/assets/icons/csharp_icon.png"
+        "iconPath": "assets/icons/csharp_icon.png"
       },
       {
         "name": "SQL Server",
-        "iconPath": "/assets/icons/sql_icon.png"
+        "iconPath": "assets/icons/sql_icon.png"
       },
       {
         "name": "TFS",
-        "iconPath": "/assets/icons/tfs_icon.png"
+        "iconPath": "assets/icons/tfs_icon.png"
       }
     ]
   },
@@ -184,79 +184,79 @@
     "technologies": [
       {
         "name": ".Net Framework",
-        "iconPath": "/assets/icons/netframework_icon.png"
+        "iconPath": "assets/icons/netframework_icon.png"
       },
       {
         "name": "ASP.Net",
-        "iconPath": "/assets/icons/aspnet_icon.png"
+        "iconPath": "assets/icons/aspnet_icon.png"
       },
       {
         "name": "C#",
-        "iconPath": "/assets/icons/csharp_icon.png"
+        "iconPath": "assets/icons/csharp_icon.png"
       },
       {
         "name": "VB",
-        "iconPath": "/assets/icons/vb_icon.png"
+        "iconPath": "assets/icons/vb_icon.png"
       },
       {
         "name": "Angular",
-        "iconPath": "/assets/icons/angular_icon.png"
+        "iconPath": "assets/icons/angular_icon.png"
       },
       {
         "name": "Javascript",
-        "iconPath": "/assets/icons/javascript_icon.png"
+        "iconPath": "assets/icons/javascript_icon.png"
       },
       {
         "name": "JQuery",
-        "iconPath": "/assets/icons/jquery_icon.png"
+        "iconPath": "assets/icons/jquery_icon.png"
       },
       {
         "name": "HTML",
-        "iconPath": "/assets/icons/html_icon.png"
+        "iconPath": "assets/icons/html_icon.png"
       },
       {
         "name": "CSS",
-        "iconPath": "/assets/icons/css_icon.png"
+        "iconPath": "assets/icons/css_icon.png"
       },
       {
         "name": "Bootstrap",
-        "iconPath": "/assets/icons/bootstrap_icon.png"
+        "iconPath": "assets/icons/bootstrap_icon.png"
       },
       {
         "name": "SQL Server",
-        "iconPath": "/assets/icons/sql_icon.png"
+        "iconPath": "assets/icons/sql_icon.png"
       },
       {
         "name": "Oracle",
-        "iconPath": "/assets/icons/oracle_icon.png"
+        "iconPath": "assets/icons/oracle_icon.png"
       },
       {
         "name": "PostgreSql",
-        "iconPath": "/assets/icons/postgresql_icon.png"
+        "iconPath": "assets/icons/postgresql_icon.png"
       },
       {
         "name": "BitBucket",
-        "iconPath": "/assets/icons/bitbucket_icon.png"
+        "iconPath": "assets/icons/bitbucket_icon.png"
       },
       {
         "name": "Jenkins",
-        "iconPath": "/assets/icons/jenkins_icon.png"
+        "iconPath": "assets/icons/jenkins_icon.png"
       },
       {
         "name": "TFS",
-        "iconPath": "/assets/icons/tfs_icon.png"
+        "iconPath": "assets/icons/tfs_icon.png"
       },
       {
         "name": "Ajax Control Toolkit",
-        "iconPath": "/assets/icons/ajaxcontroltoolkit_icon.png"
+        "iconPath": "assets/icons/ajaxcontroltoolkit_icon.png"
       },
       {
         "name": "DevExpress",
-        "iconPath": "/assets/icons/devexpress_icon.png"
+        "iconPath": "assets/icons/devexpress_icon.png"
       },
       {
         "name": "Telerik",
-        "iconPath": "/assets/icons/telerik_icon.png"
+        "iconPath": "assets/icons/telerik_icon.png"
       }
     ]
   },
@@ -278,55 +278,55 @@
     "technologies": [
       {
         "name": ".Net Framework",
-        "iconPath": "/assets/icons/netframework_icon.png"
+        "iconPath": "assets/icons/netframework_icon.png"
       },
       {
         "name": "ASP.Net",
-        "iconPath": "/assets/icons/aspnet_icon.png"
+        "iconPath": "assets/icons/aspnet_icon.png"
       },
       {
         "name": "C#",
-        "iconPath": "/assets/icons/csharp_icon.png"
+        "iconPath": "assets/icons/csharp_icon.png"
       },
       {
         "name": "Javascript",
-        "iconPath": "/assets/icons/javascript_icon.png"
+        "iconPath": "assets/icons/javascript_icon.png"
       },
       {
         "name": "JQuery",
-        "iconPath": "/assets/icons/jquery_icon.png"
+        "iconPath": "assets/icons/jquery_icon.png"
       },
       {
         "name": "HTML",
-        "iconPath": "/assets/icons/html_icon.png"
+        "iconPath": "assets/icons/html_icon.png"
       },
       {
         "name": "CSS",
-        "iconPath": "/assets/icons/css_icon.png"
+        "iconPath": "assets/icons/css_icon.png"
       },
       {
         "name": "Bootstrap",
-        "iconPath": "/assets/icons/bootstrap_icon.png"
+        "iconPath": "assets/icons/bootstrap_icon.png"
       },
       {
         "name": "SQL Server",
-        "iconPath": "/assets/icons/sql_icon.png"
+        "iconPath": "assets/icons/sql_icon.png"
       },
       {
         "name": "TFS",
-        "iconPath": "/assets/icons/tfs_icon.png"
+        "iconPath": "assets/icons/tfs_icon.png"
       },
       {
         "name": "Ajax Control Toolkit",
-        "iconPath": "/assets/icons/ajaxcontroltoolkit_icon.png"
+        "iconPath": "assets/icons/ajaxcontroltoolkit_icon.png"
       },
       {
         "name": "DevExpress",
-        "iconPath": "/assets/icons/devexpress_icon.png"
+        "iconPath": "assets/icons/devexpress_icon.png"
       },
       {
         "name": "Telerik",
-        "iconPath": "/assets/icons/telerik_icon.png"
+        "iconPath": "assets/icons/telerik_icon.png"
       }
     ]
   },
@@ -349,47 +349,47 @@
     "technologies": [
       {
         "name": ".Net Framework",
-        "iconPath": "/assets/icons/netframework_icon.png"
+        "iconPath": "assets/icons/netframework_icon.png"
       },
       {
         "name": "ASP.Net",
-        "iconPath": "/assets/icons/aspnet_icon.png"
+        "iconPath": "assets/icons/aspnet_icon.png"
       },
       {
         "name": "C#",
-        "iconPath": "/assets/icons/csharp_icon.png"
+        "iconPath": "assets/icons/csharp_icon.png"
       },
       {
         "name": "VB",
-        "iconPath": "/assets/icons/vb_icon.png"
+        "iconPath": "assets/icons/vb_icon.png"
       },
       {
         "name": "Javascript",
-        "iconPath": "/assets/icons/javascript_icon.png"
+        "iconPath": "assets/icons/javascript_icon.png"
       },
       {
         "name": "JQuery",
-        "iconPath": "/assets/icons/jquery_icon.png"
+        "iconPath": "assets/icons/jquery_icon.png"
       },
       {
         "name": "HTML",
-        "iconPath": "/assets/icons/html_icon.png"
+        "iconPath": "assets/icons/html_icon.png"
       },
       {
         "name": "CSS",
-        "iconPath": "/assets/icons/css_icon.png"
+        "iconPath": "assets/icons/css_icon.png"
       },
       {
         "name": "SQL Server",
-        "iconPath": "/assets/icons/sql_icon.png"
+        "iconPath": "assets/icons/sql_icon.png"
       },
       {
         "name": "TFS",
-        "iconPath": "/assets/icons/tfs_icon.png"
+        "iconPath": "assets/icons/tfs_icon.png"
       },
       {
         "name": "Ajax Control Toolkit",
-        "iconPath": "/assets/icons/ajaxcontroltoolkit_icon.png"
+        "iconPath": "assets/icons/ajaxcontroltoolkit_icon.png"
       }
     ]
   },
@@ -411,39 +411,39 @@
     "technologies": [
       {
         "name": ".Net Framework",
-        "iconPath": "/assets/icons/netframework_icon.png"
+        "iconPath": "assets/icons/netframework_icon.png"
       },
       {
         "name": "ASP.Net",
-        "iconPath": "/assets/icons/aspnet_icon.png"
+        "iconPath": "assets/icons/aspnet_icon.png"
       },
       {
         "name": "C#",
-        "iconPath": "/assets/icons/csharp_icon.png"
+        "iconPath": "assets/icons/csharp_icon.png"
       },
       {
         "name": "Javascript",
-        "iconPath": "/assets/icons/javascript_icon.png"
+        "iconPath": "assets/icons/javascript_icon.png"
       },
       {
         "name": "HTML",
-        "iconPath": "/assets/icons/html_icon.png"
+        "iconPath": "assets/icons/html_icon.png"
       },
       {
         "name": "CSS",
-        "iconPath": "/assets/icons/css_icon.png"
+        "iconPath": "assets/icons/css_icon.png"
       },
       {
         "name": "SQL Server",
-        "iconPath": "/assets/icons/sql_icon.png"
+        "iconPath": "assets/icons/sql_icon.png"
       },
       {
         "name": "TFS",
-        "iconPath": "/assets/icons/tfs_icon.png"
+        "iconPath": "assets/icons/tfs_icon.png"
       },
       {
         "name": "Ajax Control Toolkit",
-        "iconPath": "/assets/icons/ajaxcontroltoolkit_icon.png"
+        "iconPath": "assets/icons/ajaxcontroltoolkit_icon.png"
       }
     ]
   },
@@ -465,35 +465,35 @@
     "technologies": [
       {
         "name": ".Net Framework",
-        "iconPath": "/assets/icons/netframework_icon.png"
+        "iconPath": "assets/icons/netframework_icon.png"
       },
       {
         "name": "ASP.Net",
-        "iconPath": "/assets/icons/aspnet_icon.png"
+        "iconPath": "assets/icons/aspnet_icon.png"
       },
       {
         "name": "C#",
-        "iconPath": "/assets/icons/csharp_icon.png"
+        "iconPath": "assets/icons/csharp_icon.png"
       },
       {
         "name": "VB",
-        "iconPath": "/assets/icons/vb_icon.png"
+        "iconPath": "assets/icons/vb_icon.png"
       },
       {
         "name": "Javascript",
-        "iconPath": "/assets/icons/javascript_icon.png"
+        "iconPath": "assets/icons/javascript_icon.png"
       },
       {
         "name": "JQuery",
-        "iconPath": "/assets/icons/jquery_icon.png"
+        "iconPath": "assets/icons/jquery_icon.png"
       },
       {
         "name": "HTML",
-        "iconPath": "/assets/icons/html_icon.png"
+        "iconPath": "assets/icons/html_icon.png"
       },
       {
         "name": "SQL Server",
-        "iconPath": "/assets/icons/sql_icon.png"
+        "iconPath": "assets/icons/sql_icon.png"
       }
     ]
   }
