@@ -1,0 +1,500 @@
+[
+  {
+    "id": 8,
+    "company": "HCL Technologies",
+    "date": "Current",
+    "role": ".Net developer",
+    "description": "I am currently part of a team that develops applications for the communication exchange process between different apps from different teams that make up the entire client system.",
+    "logo": "assets/logos/hcl_logo.png",
+    "activities": [
+      "Development of backend process.",
+      "Development of Net Core services.",
+      "Development of Rest APIs.",
+      "Methodology: Scrum.",
+      "Technologies: C#, .Net Core, Git, BitBicket, Jenkins, Docker, Kubernetes, Sql Server databases"
+    ],
+    "technologies": [
+      {
+        "name": ".Net Core",
+        "iconPath": "/assets/icons/netcore_icon.png"
+      },
+      {
+        "name": "Docker",
+        "iconPath": "/assets/icons/docker_icon.png"
+      },
+      {
+        "name": "Kubernetes",
+        "iconPath": "/assets/icons/kubernetes_icon.png"
+      },
+      {
+        "name": "C#",
+        "iconPath": "/assets/icons/csharp_icon.png"
+      },
+      {
+        "name": "Angular",
+        "iconPath": "/assets/icons/angular_icon.png"
+      },
+      {
+        "name": "NodeJS",
+        "iconPath": "/assets/icons/nodejs_icon.png"
+      },
+      {
+        "name": "Javascript",
+        "iconPath": "/assets/icons/javascript_icon.png"
+      },
+      {
+        "name": "JQuery",
+        "iconPath": "/assets/icons/jquery_icon.png"
+      },
+      {
+        "name": "SQL Server",
+        "iconPath": "/assets/icons/sql_icon.png"
+      },
+      {
+        "name": "Git",
+        "iconPath": "/assets/icons/git_icon.png"
+      },
+      {
+        "name": "BitBucket",
+        "iconPath": "/assets/icons/bitbucket_icon.png"
+      },
+      {
+        "name": "Jenkins",
+        "iconPath": "/assets/icons/jenkins_icon.png"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "company": "Price Travel Holding",
+    "date": "June 2019 - May 2020",
+    "role": ".Net developer",
+    "description": "I developed cloud services with AWS for the image processing. Later I worked in the accounting team where we created applications for the sales process.",
+    "logo": "assets/logos/pricetravel_logo.png",
+    "activities": [
+      "Development of Rest APIs.",
+      "Development of backend process to help with the daily operation.",
+      "Development of AWS SQS.",
+      "Development of AWS Lambda functions",
+      "Development of web sites.",
+      "Methodology: Scrum.",
+      "Technologies: C#, ASPX, .Net Core, AWS, Git, BitBicket, Javascript, Sql Server databases"
+    ],
+    "technologies": [
+      {
+        "name": ".Net Core",
+        "iconPath": "/assets/icons/netcore_icon.png"
+      },
+      {
+        "name": ".Net Framework",
+        "iconPath": "/assets/icons/netframework_icon.png"
+      },
+      {
+        "name": "AWS",
+        "iconPath": "/assets/icons/aws_icon.png"
+      },
+      {
+        "name": "ASP.Net",
+        "iconPath": "/assets/icons/aspnet_icon.png"
+      },
+      {
+        "name": "C#",
+        "iconPath": "/assets/icons/csharp_icon.png"
+      },
+      {
+        "name": "NodeJS",
+        "iconPath": "/assets/icons/nodejs_icon.png"
+      },
+      {
+        "name": "SQL Server",
+        "iconPath": "/assets/icons/sql_icon.png"
+      },
+      {
+        "name": "BitBucket",
+        "iconPath": "/assets/icons/bitbucket_icon.png"
+      },
+      {
+        "name": "Jenkins",
+        "iconPath": "/assets/icons/jenkins_icon.png"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "company": "Edenred",
+    "date": "June 2018 - February 2019",
+    "role": ".Net developer",
+    "description": "Edenred is a grocery voucher company. Develop APIs for the process of encryption and decryption of cards for enrollment.",
+    "logo": "assets/logos/edenred_logo.png",
+    "activities": [
+      "Backend process development for enrollment of grocery coupons.",
+      "Development of Rest APIs",
+      "Development of SOAP services",
+      "Development of tables and views.",
+      "Development of Stored procedures.",
+      "Methodology: Scrum.",
+      "Technologies: C#, .Net Core, TFS, Sql Server databases"
+    ],
+    "technologies": [
+      {
+        "name": ".Net Core",
+        "iconPath": "/assets/icons/netcore_icon.png"
+      },
+      {
+        "name": ".Net Framework",
+        "iconPath": "/assets/icons/netframework_icon.png"
+      },
+      {
+        "name": "ASP.Net",
+        "iconPath": "/assets/icons/aspnet_icon.png"
+      },
+      {
+        "name": "C#",
+        "iconPath": "/assets/icons/csharp_icon.png"
+      },
+      {
+        "name": "SQL Server",
+        "iconPath": "/assets/icons/sql_icon.png"
+      },
+      {
+        "name": "TFS",
+        "iconPath": "/assets/icons/tfs_icon.png"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "company": "Nielsen",
+    "date": "December 2015 - June 2018",
+    "role": ".Net developer",
+    "description": "At Nielsen I was dedicated to developing applications for calculating statistics. Use Sql, Oracle, and PostgreSql databases. I also developed components in angular. At Nielsen I had my first foreign client, being my Product Owner from Australia.",
+    "logo": "assets/logos/nielsen_logo.png",
+    "activities": [
+      "Development of web and windows services applications to calculate statistics.",
+      "Development of windows services.",
+      "Development of web sites.",
+      "Development of tables and views.",
+      "Development of stored procedures.",
+      "Development of Rest APIs.",
+      "Devlopment of SOAP services.",
+      "Maintenance of existing web sites.",
+      "Methodology: Scrum.",
+      "Technologies: C#, TFS, Git, BitBucket, ASPX, Angular, Javascript, JQuery, Ajax, CSS, Bootstrap, Sql Server databases, Oracle databases, PostreSql databases"
+    ],
+    "technologies": [
+      {
+        "name": ".Net Framework",
+        "iconPath": "/assets/icons/netframework_icon.png"
+      },
+      {
+        "name": "ASP.Net",
+        "iconPath": "/assets/icons/aspnet_icon.png"
+      },
+      {
+        "name": "C#",
+        "iconPath": "/assets/icons/csharp_icon.png"
+      },
+      {
+        "name": "VB",
+        "iconPath": "/assets/icons/vb_icon.png"
+      },
+      {
+        "name": "Angular",
+        "iconPath": "/assets/icons/angular_icon.png"
+      },
+      {
+        "name": "Javascript",
+        "iconPath": "/assets/icons/javascript_icon.png"
+      },
+      {
+        "name": "JQuery",
+        "iconPath": "/assets/icons/jquery_icon.png"
+      },
+      {
+        "name": "HTML",
+        "iconPath": "/assets/icons/html_icon.png"
+      },
+      {
+        "name": "CSS",
+        "iconPath": "/assets/icons/css_icon.png"
+      },
+      {
+        "name": "Bootstrap",
+        "iconPath": "/assets/icons/bootstrap_icon.png"
+      },
+      {
+        "name": "SQL Server",
+        "iconPath": "/assets/icons/sql_icon.png"
+      },
+      {
+        "name": "Oracle",
+        "iconPath": "/assets/icons/oracle_icon.png"
+      },
+      {
+        "name": "PostgreSql",
+        "iconPath": "/assets/icons/postgresql_icon.png"
+      },
+      {
+        "name": "BitBucket",
+        "iconPath": "/assets/icons/bitbucket_icon.png"
+      },
+      {
+        "name": "Jenkins",
+        "iconPath": "/assets/icons/jenkins_icon.png"
+      },
+      {
+        "name": "TFS",
+        "iconPath": "/assets/icons/tfs_icon.png"
+      },
+      {
+        "name": "Ajax Control Toolkit",
+        "iconPath": "/assets/icons/ajaxcontroltoolkit_icon.png"
+      },
+      {
+        "name": "DevExpress",
+        "iconPath": "/assets/icons/devexpress_icon.png"
+      },
+      {
+        "name": "Telerik",
+        "iconPath": "/assets/icons/telerik_icon.png"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "company": "Cubica Dynamic Systems",
+    "date": "August 2014 - December 2015",
+    "role": ".Net developer",
+    "description": "Cubica was the first company in which I worked with a remote scheme. Here I developed web applications related to e-commerce. From the sale to the registration of the products for shipment to the customer.",
+    "logo": "assets/logos/cubica_logo.png",
+    "activities": [
+      "Development of web applications for e-commerce.",
+      "Development of windows services.",
+      "Development of tables and views.",
+      "Development of stored procedures.",
+      "Deployment in IIS",
+      "Technologies: C#, TFS, ASPX, CSS, Ajax, Javascript, Telerik, DevExpress, Bootstrap, Sql Server databases."
+    ],
+    "technologies": [
+      {
+        "name": ".Net Framework",
+        "iconPath": "/assets/icons/netframework_icon.png"
+      },
+      {
+        "name": "ASP.Net",
+        "iconPath": "/assets/icons/aspnet_icon.png"
+      },
+      {
+        "name": "C#",
+        "iconPath": "/assets/icons/csharp_icon.png"
+      },
+      {
+        "name": "Javascript",
+        "iconPath": "/assets/icons/javascript_icon.png"
+      },
+      {
+        "name": "JQuery",
+        "iconPath": "/assets/icons/jquery_icon.png"
+      },
+      {
+        "name": "HTML",
+        "iconPath": "/assets/icons/html_icon.png"
+      },
+      {
+        "name": "CSS",
+        "iconPath": "/assets/icons/css_icon.png"
+      },
+      {
+        "name": "Bootstrap",
+        "iconPath": "/assets/icons/bootstrap_icon.png"
+      },
+      {
+        "name": "SQL Server",
+        "iconPath": "/assets/icons/sql_icon.png"
+      },
+      {
+        "name": "TFS",
+        "iconPath": "/assets/icons/tfs_icon.png"
+      },
+      {
+        "name": "Ajax Control Toolkit",
+        "iconPath": "/assets/icons/ajaxcontroltoolkit_icon.png"
+      },
+      {
+        "name": "DevExpress",
+        "iconPath": "/assets/icons/devexpress_icon.png"
+      },
+      {
+        "name": "Telerik",
+        "iconPath": "/assets/icons/telerik_icon.png"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "company": "Grupo AMPM",
+    "date": "July 2013 - August 2014",
+    "role": ".Net developer",
+    "description": "AMPM is a courier company. My work here consisted of the development and maintenance of a web application that was used to track the routes of the delivery people with the Google Maps API.",
+    "logo": "assets/logos/grupoampm_logo.png",
+    "activities": [
+      "Development of tracking sites for package delivery.",
+      "Maintenance of existing web sites",
+      "Development of web sites",
+      "Development of tables and views.",
+      "Development of stored procedures.",
+      "Deployment in IIS",
+      "Technologies: C#, ASPX, CSS, Google Maps API, Ajax, Javascript, SQL Server databases."
+    ],
+    "technologies": [
+      {
+        "name": ".Net Framework",
+        "iconPath": "/assets/icons/netframework_icon.png"
+      },
+      {
+        "name": "ASP.Net",
+        "iconPath": "/assets/icons/aspnet_icon.png"
+      },
+      {
+        "name": "C#",
+        "iconPath": "/assets/icons/csharp_icon.png"
+      },
+      {
+        "name": "VB",
+        "iconPath": "/assets/icons/vb_icon.png"
+      },
+      {
+        "name": "Javascript",
+        "iconPath": "/assets/icons/javascript_icon.png"
+      },
+      {
+        "name": "JQuery",
+        "iconPath": "/assets/icons/jquery_icon.png"
+      },
+      {
+        "name": "HTML",
+        "iconPath": "/assets/icons/html_icon.png"
+      },
+      {
+        "name": "CSS",
+        "iconPath": "/assets/icons/css_icon.png"
+      },
+      {
+        "name": "SQL Server",
+        "iconPath": "/assets/icons/sql_icon.png"
+      },
+      {
+        "name": "TFS",
+        "iconPath": "/assets/icons/tfs_icon.png"
+      },
+      {
+        "name": "Ajax Control Toolkit",
+        "iconPath": "/assets/icons/ajaxcontroltoolkit_icon.png"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "company": "Atento Contact Center",
+    "date": "February 2011 - July 2013",
+    "role": ".Net developer",
+    "description": "At Atento, I worked as a junior developer. My daily activities consisted of developing various web applications to record phone calls for the Contact Center, keeping all the information in Sql databases.",
+    "logo": "assets/logos/atento_logo.png",
+    "activities": [
+      "Development and maintenance of applications for the administration of phone calls from the Call Center.",
+      "Development of web sites.",
+      "Development of tables and views.",
+      "Development of stored procedures.",
+      "Deployment in IIS",
+      "Technologies: C#, ASPX, CSS, Ajax, Sql server databases"
+    ],
+    "technologies": [
+      {
+        "name": ".Net Framework",
+        "iconPath": "/assets/icons/netframework_icon.png"
+      },
+      {
+        "name": "ASP.Net",
+        "iconPath": "/assets/icons/aspnet_icon.png"
+      },
+      {
+        "name": "C#",
+        "iconPath": "/assets/icons/csharp_icon.png"
+      },
+      {
+        "name": "Javascript",
+        "iconPath": "/assets/icons/javascript_icon.png"
+      },
+      {
+        "name": "HTML",
+        "iconPath": "/assets/icons/html_icon.png"
+      },
+      {
+        "name": "CSS",
+        "iconPath": "/assets/icons/css_icon.png"
+      },
+      {
+        "name": "SQL Server",
+        "iconPath": "/assets/icons/sql_icon.png"
+      },
+      {
+        "name": "TFS",
+        "iconPath": "/assets/icons/tfs_icon.png"
+      },
+      {
+        "name": "Ajax Control Toolkit",
+        "iconPath": "/assets/icons/ajaxcontroltoolkit_icon.png"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "company": "Witware",
+    "date": "December 2009 - January 2011",
+    "role": ".Net developer",
+    "description": "I worked as a junior developer in the development of a car tracking application. Later I dedicated myself to the development of the company's website.",
+    "logo": "assets/logos/witware_logo.png",
+    "activities": [
+      "Administration and support of Console Service which communicates with tracking devices.",
+      "Development of web sites.",
+      "Development of windows services.",
+      "Development of Tables, Views.",
+      "Development of Stored Procedures.",
+      "Technologies: C#, ASPX, Sql server databases"
+    ],
+    "technologies": [
+      {
+        "name": ".Net Framework",
+        "iconPath": "/assets/icons/netframework_icon.png"
+      },
+      {
+        "name": "ASP.Net",
+        "iconPath": "/assets/icons/aspnet_icon.png"
+      },
+      {
+        "name": "C#",
+        "iconPath": "/assets/icons/csharp_icon.png"
+      },
+      {
+        "name": "VB",
+        "iconPath": "/assets/icons/vb_icon.png"
+      },
+      {
+        "name": "Javascript",
+        "iconPath": "/assets/icons/javascript_icon.png"
+      },
+      {
+        "name": "JQuery",
+        "iconPath": "/assets/icons/jquery_icon.png"
+      },
+      {
+        "name": "HTML",
+        "iconPath": "/assets/icons/html_icon.png"
+      },
+      {
+        "name": "SQL Server",
+        "iconPath": "/assets/icons/sql_icon.png"
+      }
+    ]
+  }
+]
