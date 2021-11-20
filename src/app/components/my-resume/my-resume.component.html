@@ -10,8 +10,7 @@
         <div
           class="carousel-item"
           *ngFor="let job of jobs"
-          [ngClass]="{ active: job.date == 'Current' }"
-        >
+          [ngClass]="{ active: job.date == 'Current' }">
           <div class="transparent-container overflow-auto">
             <h1>
               <img src="{{ job.logo }}" width="60px" />
@@ -28,8 +27,7 @@
             <ul class="list-group bg-transparent">
               <li
                 class="list-group-item bg-transparent"
-                *ngFor="let activity of job.activities"
-              >
+                *ngFor="let activity of job.activities">
                 {{ activity }}
               </li>
             </ul>
@@ -38,7 +36,7 @@
               <h4>Technologies I used</h4>
               <br />
               <br />
-              <p class="col-sm-3" *ngFor="let technology of job.technologies">
+              <p class="col-sm-3 col-3" *ngFor="let technology of job.technologies">
                 <img
                   src="{{ technology.iconPath }}"
                   width="40px"

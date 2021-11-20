@@ -2,3 +2,7 @@
   background: url("../../../assets/images/technologies.jpeg") no-repeat 50% 50%;
   background-size: cover;
 }
+
+.transparent-container {
+  height: 80vh;
+}
