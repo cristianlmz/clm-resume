@@ -43,10 +43,6 @@
         "iconPath": "assets/icons/javascript_icon.png"
       },
       {
-        "name": "JQuery",
-        "iconPath": "assets/icons/jquery_icon.png"
-      },
-      {
         "name": "SQL Server",
         "iconPath": "assets/icons/sql_icon.png"
       },
